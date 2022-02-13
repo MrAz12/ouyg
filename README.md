@@ -1,60 +1,147 @@
-<p align="center">
-<img src="https://telegra.ph/file/8c988b0bd80b582673019.jpg" alt="LEXXY BOT" width="200"/>
+<!DOCTYPE html>
 
-<p align="center">
-    <a href="https://Lexxy24.github.io">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Created+By+MrAz+🌐"
-            alt="MrAz"
-        />
-    </a>
-</p>
+<html lang="en">
 
-# BOTV13
-## Heroku Buildpack
+<head>
 
-Click the deploy icon below !
+    <meta charset="UTF-8">
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lexxy24/v13)
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-```bash
- > heroku/nodejs
- > https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
- > https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-```
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-## Termux
-```bash
-> pkg install bash
-> pkg install nodejs
-> pkg install libwebp
-> pkg install git
-> pkg install imagemagick
-> pkg install ffmpeg
-> termux-setup-storage
-> cd /sdcard/v13
-> git clone https://github.com/Lexxy24/v13.git
-> cd v13
-> git clone https://github.com/Lexxy24/node_modules
-> npm start
-```
+    <title>Tes</title>
 
-## settings
-Edit Nomor Owner DLL `'./settings/setting.json'`
+    <link rel="stylesheet" href="style.css">
 
-```ts
-{
-"BotName":"NanaBotz",
-"OwnerNumber":"62857890047322",
-"OwnerName":"LexxyOFC",
+    <link rel="preconnect" href="https://fonts.googleapis.com">
 
-"GithubOwner":"https://github.com/Lexxy24",
-"YoutubeOwner":"https://youtube.com/c/LEX4YOUU",
-"GroupOwner":"https://chat.whatsapp.com/DiexeOhNqQv5Qsm6Y2vD4d"
-}
-```
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
-# My Sosial
-- [Group ](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
-- [YouTube ](https://youtube.com/c/LEX4YOUU)
-- [Whatsapp ](https://wa.me/6285789004732)
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+    <div class="bg">
+
+        <center>
+
+            <div class="isi">
+
+            <h1>ROSTER XI RPL 1 SEMESTER 2</h1>
+
+            <div class="header">
+
+                <table>
+
+                    <td>
+
+                        SENIN
+
+                    </td>
+
+                </table>
+
+                <table>
+
+                    <td>
+
+                        SELASA
+
+                    </td>
+
+                </table>
+
+                <table>
+
+                    <td>
+
+                        RABU
+
+                    </td>
+
+                </table>
+
+                <table>
+
+                    <td>
+
+                        KAMIS
+
+                    </td>
+
+                </table>
+
+            </div>
+
+            <div class="table">
+
+                <table>
+
+                    <td class="atas">Produk Kreatif</td><tr>
+
+                    <td>Produk Kreatif</td><tr>
+
+                    <td>ISTIRAHAT</td><tr>
+
+                    <td>PBO</td><tr>
+
+                    <td class="bawah">PBO</td>
+
+                </table>
+
+                <table>
+
+                    <td class="atas">Basis Data</td><tr>
+
+                    <td>PPL</td><tr>
+
+                    <td>ISTIRAHAT</td><tr>
+
+                    <td>PKN</td><tr>
+
+                    <td class="bawah">Agama</td>
+
+                </table>
+
+                <table>
+
+                    <td class="atas">PWPB</td><tr>
+
+                    <td>PWPB</td><tr>
+
+                    <td>ISTIRAHAT</td><tr>
+
+                    <td>Bahasa Indonesia</td><tr>
+
+                    <td class="bawah"></td>
+
+                </table>
+
+                <table>
+
+                    <td class="atas">PJOK</td><tr>
+
+                    <td>Bahasa Inggris</td><tr>
+
+                    <td>ISTIRAHAT</td><tr>
+
+                    <td>Matematika</td><tr>
+
+                    <td class="bawah"></td>
+
+                </table>
+
+            </div>
+
+            </div>
+
+        </center>
+
+    </div>
+
+</body>
+
+</html>
